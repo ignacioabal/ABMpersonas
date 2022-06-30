@@ -1,4 +1,4 @@
-package com.ignacioabal.interexa.Persona;
+package com.ignacioabal.ABMpersonas.Persona;
 
 import javax.persistence.*;
 

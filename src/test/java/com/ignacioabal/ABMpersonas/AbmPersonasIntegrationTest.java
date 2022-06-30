@@ -1,8 +1,8 @@
-package com.ignacioabal.interexa;
+package com.ignacioabal.ABMpersonas;
 
 
-import com.ignacioabal.interexa.Persona.Persona;
-import com.ignacioabal.interexa.Persona.PersonaRepository;
+import com.ignacioabal.ABMpersonas.Persona.Persona;
+import com.ignacioabal.ABMpersonas.Persona.PersonaRepository;
 import org.json.JSONObject;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Nested;

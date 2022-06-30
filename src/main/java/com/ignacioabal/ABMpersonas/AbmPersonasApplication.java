@@ -1,4 +1,4 @@
-package com.ignacioabal.interexa;
+package com.ignacioabal.ABMpersonas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

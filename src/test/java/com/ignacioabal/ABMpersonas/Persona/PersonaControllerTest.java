@@ -1,11 +1,7 @@
-package com.ignacioabal.interexa.Persona;
+package com.ignacioabal.ABMpersonas.Persona;
 
-import com.ignacioabal.interexa.Persona.Persona;
-import com.ignacioabal.interexa.Persona.PersonaController;
-import com.ignacioabal.interexa.Persona.PersonaService;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

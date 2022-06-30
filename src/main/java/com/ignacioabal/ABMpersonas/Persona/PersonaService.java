@@ -1,6 +1,5 @@
-package com.ignacioabal.interexa.Persona;
+package com.ignacioabal.ABMpersonas.Persona;
 
-import org.apache.tomcat.util.http.parser.HttpParser;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
